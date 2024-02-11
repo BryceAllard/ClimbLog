@@ -18,3 +18,4 @@
 | 2/07/24 | proj plan                    | 3     | |
 | 2/08/24 | videos                       | 2     | |
 | 2/10/24 | Exercise 2                   | 5     |Progress but overall not going well, don't know why it feels so difficult|
+| 2/11/24 | Exercise 2                   | 3     |Made the search method and button but not working|
