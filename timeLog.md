@@ -19,3 +19,5 @@
 | 2/08/24 | videos                       | 2     | |
 | 2/10/24 | Exercise 2                   | 5     |Progress but overall not going well, don't know why it feels so difficult|
 | 2/11/24 | Exercise 2                   | 3     |Made the search method and button but not working|
+| 2/12/24 | Exercise 2                   | 1.5   |Fixed issue with database connection|
+| 2/11/24 | Exercise 2                   | 3     |Basically done now, just need to connect to GitHub|
