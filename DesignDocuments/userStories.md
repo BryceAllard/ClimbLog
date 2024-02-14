@@ -21,16 +21,10 @@ As any user, I want to view information such as type, difficulty, and location s
 ### Add Climb
 As a registered user, I want to be able to add a new climb so that others can learn about it.
 
-### Admin Edit Climb
-As an admin user, I want to be able to edit any climb.
-
-### Admin Delete Climb
-As an admin user, I want to be able to delete any climb that may be inappropriate, no longer in existence, etc. so that the site has relevant and current information.
-
 ### Password Reset
-As a registered user or admin user, I want to be able to reset my password if I forget it.
+As a registered user, I want to be able to reset my password if I forget it.
 
 ### Edit user profile
-As a registered user or admin user, I want to be able to edit my profile.
+As a registered user, I want to be able to edit my profile.
 
 *Denotes MVP
