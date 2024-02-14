@@ -25,12 +25,8 @@ Since climbing routes are in hard to reach places by default, ClimbLog will make
 * Hosting
   * AWS
 * Tech I'd like to explore as part of this work
-  * CI tools in AWS
   * Mockaroo
-  * Materialize
   * Google Maps API
-  * Hibernate Validator
-  * Hibernate Search
 * Project Lombok
 * Unit Testing
   * JUnit tests to cover all testable logic
