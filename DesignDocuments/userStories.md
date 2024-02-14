@@ -1,38 +1,36 @@
-#User Stories
+# User Stories
 
-*** Sign up *
+### Sign up
 As a new user I want to create an account so that I can add and log climbs.
 
-*** Sign In *
+### Sign In
 As a registered user I want to log in so that I can add and log climbs.
 
-*** Find Climbs by Difficulty *
+### Find Climbs by Difficulty
 As any user I want to be able to find climbs by difficulty so that I can learn more about where I can climb based on my skill level.
 
-*** Find Climbs by Location
+### Find Climbs by Location
 As any user I want to be able to find climbs by location so that I can learn more about those climbs near a particular area.
 
-*** View Weather Report *
+### View Weather Report
 As any user, I want to read a weather report for a given location so that I can understand the current and future conditions of that climb.
 
-*** View Climb*
+### View Climb
 As any user, I want to view information such as type, difficulty, and location so that I can choose an appropriate climb.
 
-*** Add Climb*
+### Add Climb
 As a registered user, I want to be able to add a new climb so that others can learn about it.
 
-*** Admin Edit Climb*
+### Admin Edit Climb
 As an admin user, I want to be able to edit any climb.
 
-*** Admin Delete Climb*
+### Admin Delete Climb
 As an admin user, I want to be able to delete any climb that may be inappropriate, no longer in existence, etc. so that the site has relevant and current information.
 
-*** Password Reset *
+### Password Reset
 As a registered user or admin user, I want to be able to reset my password if I forget it.
 
-*** Edit user profile
+### Edit user profile
 As a registered user or admin user, I want to be able to edit my profile.
 
 *Denotes MVP
-
-
