@@ -22,3 +22,5 @@
 | 2/12/24 | Exercise 2                   | 1.5   |Fixed issue with database connection|
 | 2/13/24 | Exercise 2                   | 3     |Basically done now, just need to connect to GitHub|
 | 2/13/24 | ClimbLog Project             | 1     |Made some changes based on feedback |
+| 2/14/24 | Started wk 4 videos/ material| 2     | |
+| 2/15/24 | Started exercise 3           | 2.5   | |
