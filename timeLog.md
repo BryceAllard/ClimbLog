@@ -24,3 +24,4 @@
 | 2/13/24 | ClimbLog Project             | 1     |Made some changes based on feedback |
 | 2/14/24 | Started wk 4 videos/ material| 2     | |
 | 2/15/24 | Started exercise 3           | 2.5   | |
+| 2/16/24 | Finished exercise 3          | 4.5   | |
