@@ -19,7 +19,6 @@
 --
 -- Table structure for table `climb`
 --
-DROP TABLE IF EXISTS `climb_info`;
 DROP TABLE IF EXISTS `climb`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;

@@ -33,7 +33,7 @@ public class User {
     private LocalDate dateOfBirth;
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
-    private List<Order> orders = new ArrayList<>();
+    private List<Order> climbs = new ArrayList<>();
 
     /**
      * Instantiates a new User.
@@ -56,22 +56,22 @@ public class User {
 
 
     /**
-     * Add order.
+     * Add climb.
      *
-     * @param order the order
+     * @param climb the order
      */
-    public void addOrder(Order order) {
-        orders.add(order);
-        order.setUser(this);
+    public void addOrder(Order climb) {
+        climbs.add(climb);
+        climb.setUser(this);
     }
 
     /**
-     * Remove order.
+     * Remove climb.
      *
-     * @param order the order
+     * @param climb the climb
      */
     public void removeOrder(Order order) {
-        orders.remove(order);
+        climbs.remove(climb);
         order.setUser(null);
     }
 
