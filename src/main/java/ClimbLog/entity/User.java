@@ -33,7 +33,7 @@ public class User {
     private LocalDate dateOfBirth;
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
-    private List<Order> climbs = new ArrayList<>();
+    private List<Climb> climbs = new ArrayList<>();
 
     /**
      * Instantiates a new User.
@@ -58,9 +58,9 @@ public class User {
     /**
      * Add climb.
      *
-     * @param climb the order
+     * @param climb the climb
      */
-    public void addOrder(Order climb) {
+    public void addClimb(Climb climb) {
         climbs.add(climb);
         climb.setUser(this);
     }
@@ -70,27 +70,27 @@ public class User {
      *
      * @param climb the climb
      */
-    public void removeOrder(Order order) {
+    public void removeClimb(Climb climb) {
         climbs.remove(climb);
-        order.setUser(null);
+        climb.setUser(null);
     }
 
     /**
-     * Gets orders.
+     * Gets climbs.
      *
-     * @return the orders
+     * @return the climbs
      */
-    public List<Order> getOrders() {
-        return orders;
+    public List<Climb> getClimbs() {
+        return climbs;
     }
 
     /**
-     * Sets orders.
+     * Sets climbs.
      *
-     * @param orders the orders
+     * @param climbs the climbs
      */
-    public void setOrders(List<Order> orders) {
-        this.orders = orders;
+    public void setClimbs(List<Climb> climbs) {
+        this.climbs = climbs;
     }
 
     /**
