@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
 import org.hibernate.query.criteria.HibernateCriteriaBuilder;
 
 /**
@@ -34,7 +35,18 @@ public class GenericDao<T> {
         return entity;
     }
 
-
+    /**
+     * Deletes the entity
+     *
+     * @param entity entity to be deleted
+     */
+    public void delete(T entity) {
+        Session session = getSession();
+        Transaction transaction = session.beginTransaction();
+        session.delete(entity);
+        transaction.commit();
+        session.close();
+    }
 
     /**
      * Returns an open session from the SessionFactory

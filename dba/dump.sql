@@ -17,13 +17,13 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `climb_info`
+-- Table structure for table `climb`
 --
-
 DROP TABLE IF EXISTS `climb_info`;
+DROP TABLE IF EXISTS `climb`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `climb_info` (
+CREATE TABLE `climb` (
                           `id` int NOT NULL AUTO_INCREMENT,
                           `name` varchar(100) DEFAULT NULL,
                           `state` varchar(2) DEFAULT NULL,
@@ -35,13 +35,13 @@ CREATE TABLE `climb_info` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `climb_info`
+-- Dumping data for table `climb`
 --
 
-LOCK TABLES `climb_info` WRITE;
-/*!40000 ALTER TABLE `climb_info` DISABLE KEYS */;
-INSERT INTO `climb_info` VALUES (1, 'Rain Acid', 'KY', 10, 'sport/top rope'),(2, 'Acrophobics Anonymous', 'TN', 11, 'sport'),(3, 'Freerider', 'CA', 13, 'multi pitch'),(4,'Boy Scout', 'WI', 5, 'top rope');
-/*!40000 ALTER TABLE `climb_info` ENABLE KEYS */;
+LOCK TABLES `climb` WRITE;
+/*!40000 ALTER TABLE `climb` DISABLE KEYS */;
+INSERT INTO `climb` VALUES (1, 'Rain Acid', 'KY', 10, 'sport/top rope'),(2, 'Acrophobics Anonymous', 'TN', 11, 'sport'),(3, 'Freerider', 'CA', 13, 'multi pitch'),(4,'Boy Scout', 'WI', 5, 'top rope');
+/*!40000 ALTER TABLE `climb` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
