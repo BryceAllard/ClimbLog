@@ -87,20 +87,3 @@ class UserDaoTest {
     }
 
 }
-
-
-
-/*
-
-
-
-
-
-@Test
-    void getByPropertyLike() {
-
-        List<User> users = genericDao.getByPropertyLike("lastName", "c");
-        assertEquals(3, users.size());
-    }
-
-*/
