@@ -25,6 +25,7 @@ public class Climb {
     private String type;
 
     @ManyToOne
+    @JoinColumn(name = "user_id") // Assuming there's a foreign key column in the climb table referencing the user
     private User user;
 
     /**
@@ -37,7 +38,7 @@ public class Climb {
      * Constructs a Climb object with the specified name and user.
      *
      * @param name The name of the climb.
-     * @param user        The user associated with the climb.
+     * @param user The user associated with the climb.
      */
     public Climb(String name, User user) {
         this.name = name;
@@ -81,6 +82,60 @@ public class Climb {
     }
 
     /**
+     * Gets the state of the climb.
+     *
+     * @return The state of the climb.
+     */
+    public String getState() {
+        return state;
+    }
+
+    /**
+     * Sets the state of the climb.
+     *
+     * @param state The state of the climb.
+     */
+    public void setState(String state) {
+        this.state = state;
+    }
+
+    /**
+     * Gets the difficulty of the climb.
+     *
+     * @return The difficulty of the climb.
+     */
+    public int getDifficulty() {
+        return difficulty;
+    }
+
+    /**
+     * Sets the difficulty of the climb.
+     *
+     * @param difficulty The difficulty of the climb.
+     */
+    public void setDifficulty(int difficulty) {
+        this.difficulty = difficulty;
+    }
+
+    /**
+     * Gets the type of the climb.
+     *
+     * @return The type of the climb.
+     */
+    public String getType() {
+        return type;
+    }
+
+    /**
+     * Sets the type of the climb.
+     *
+     * @param type The type of the climb.
+     */
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    /**
      * Gets the user associated with the climb.
      *
      * @return The user associated with the climb.
@@ -108,6 +163,9 @@ public class Climb {
         return "Climb{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
+                ", state='" + state + '\'' +
+                ", difficulty=" + difficulty +
+                ", type='" + type + '\'' +
                 ", user=" + user +
                 '}';
     }
