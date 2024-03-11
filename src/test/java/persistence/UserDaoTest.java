@@ -70,6 +70,22 @@ class UserDaoTest {
         List<User> users = genericDao.getAll();
         assertEquals(6, users.size());
     }
+
+    @Test
+    void getByPropertyEqual() {
+
+        List<User> users = genericDao.getByPropertyLike("lastName", "Curry");
+        assertEquals(1, users.size());
+        assertEquals(3, users.get(0).getId());
+    }
+
+    @Test
+    void getByPropertyLike() {
+
+        List<User> users = genericDao.getByPropertyLike("lastName", "c");
+        assertEquals(3, users.size());
+    }
+
 }
 
 
@@ -79,18 +95,12 @@ class UserDaoTest {
 
 
 
-    @Test
-    void getByPropertyEqual() {
-        userDao = new UserDao();
-        List<User> users = userDao.getByPropertyLike("lastName", "Curry");
-        assertEquals(1, users.size());
-        assertEquals(3, users.get(0).getId());
-    }
 
-    @Test
+@Test
     void getByPropertyLike() {
-        userDao = new UserDao();
-        List<User> users = userDao.getByPropertyLike("lastName", "c");
+
+        List<User> users = genericDao.getByPropertyLike("lastName", "c");
         assertEquals(3, users.size());
     }
+
 */
