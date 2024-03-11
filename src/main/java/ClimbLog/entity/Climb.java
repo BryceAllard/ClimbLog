@@ -16,7 +16,13 @@ public class Climb {
     @GenericGenerator(name = "native", strategy = "native")
     private int id;
 
-    private String description;
+    private String name;
+
+    private String state;
+
+    private int difficulty;
+
+    private String type;
 
     @ManyToOne
     private User user;
@@ -28,13 +34,13 @@ public class Climb {
     }
 
     /**
-     * Constructs an Climb object with the specified description and user.
+     * Constructs a Climb object with the specified name and user.
      *
-     * @param description The description of the climb.
+     * @param name The name of the climb.
      * @param user        The user associated with the climb.
      */
-    public Climb(String description, User user) {
-        this.description = description;
+    public Climb(String name, User user) {
+        this.name = name;
         this.user = user;
     }
 
@@ -57,21 +63,21 @@ public class Climb {
     }
 
     /**
-     * Gets the description of the climb.
+     * Gets the name of the climb.
      *
-     * @return The description of the climb.
+     * @return The name of the climb.
      */
-    public String getDescription() {
-        return description;
+    public String getName() {
+        return name;
     }
 
     /**
-     * Sets the description of the climb.
+     * Sets the name of the climb.
      *
-     * @param description The description of the climb.
+     * @param name The name of the climb.
      */
-    public void setDescription(String description) {
-        this.description = description;
+    public void setName(String name) {
+        this.name = name;
     }
 
     /**
@@ -101,7 +107,7 @@ public class Climb {
     public String toString() {
         return "Climb{" +
                 "id=" + id +
-                ", description='" + description + '\'' +
+                ", name='" + name + '\'' +
                 ", user=" + user +
                 '}';
     }
