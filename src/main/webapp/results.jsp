@@ -4,7 +4,7 @@
 
 <script type="text/javascript" class="init">
     $(document).ready( function () {
-        $('#userTable').DataTable();
+        $('#climbTable').DataTable();
     } );
 </script>
 <html>
@@ -12,30 +12,23 @@
 
 <div class="container-fluid">
     <h2>Search Results: </h2>
-    <table id="userTable" class="display" cellspacing="0" width="100%">
+    <table id="climbTable" class="display" cellspacing="0" width="100%">
         <thead>
         <th>Name</th>
-        <th>User Name</th>
-        <th>Age</th>
-        <th>Orders</th>
+        <th>State</th>
+        <th>Difficulty</th>
+        <th>Type</th>
+        <th>User</th>
         </thead>
         <tbody>
-        <c:forEach var="user" items="${users}">
+        <c:forEach var="climb" items="${climbs}">
             <tr>
-                <td>${user.firstName} ${user.lastName}</td>
-                <td>${user.userName}</td>
-                <td>${user.age}</td>
-                <td>
-                    <ul>
-                        <c:forEach var="order" items="${user.orders}">
-                            <li>${order.description}</li>
-                        </c:forEach>
-                    </ul>
-
-                </td>
+                <td>${climb.name}</td>
+                <td>${climb.state}</td>
+                <td>${climb.difficulty}</td>
+                <td>${climb.type}</td>
+                <td>${climb.user.firstName} ${climb.user.lastName}</td>
             </tr>
-
-
         </c:forEach>
         </tbody>
     </table>
