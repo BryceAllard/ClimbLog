@@ -79,7 +79,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Clockit</finalName>
+    <finalName>ClimbLog</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
