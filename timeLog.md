@@ -25,3 +25,19 @@
 | 2/14/24 | Started wk 4 videos/ material| 2     | |
 | 2/15/24 | Started exercise 3           | 2.5   | |
 | 2/16/24 | Finished exercise 3          | 4.5   | |
+| 2/18/24 | Starting week 4 content      | 3.5   | |
+| 2/19/24 | Week 4 videos                | 2     | |
+| 2/22/24 | Week 4 activities            | 4.5   | |
+| 2/24/24 | Starting week 4 ex           | 4.5   | Various issues so far |
+| 2/26/24 | new branch for week 4 ex     | 1.5   | |
+| 2/27/24 | Working on week 4 ex         | 2.5   | |
+| 2/28/24 | Working on week 4 ex         | 4.5   | |
+| 2/29/24 | Working on week 4 ex         | 2.5   | |
+| 3/1/24  | VM license expired           | 1     | |
+| 3/3/24  | Setup new VM license         | 1.5   | |
+| 3/4/24  | Working on week 4 ex         | 1.5   | |
+| 3/5/24  | Finished week 4 ex           | 3.5   | |
+
+
+
+
