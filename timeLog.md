@@ -37,6 +37,20 @@
 | 3/3/24  | Setup new VM license         | 1.5   | |
 | 3/4/24  | Working on week 4 ex         | 1.5   | |
 | 3/5/24  | Finished week 4 ex           | 3.5   | |
+| 3/5/24  | Started week 5 content       | 3.5   | |
+| 3/6/24  | Week 5 activities            | 3     | |
+| 3/7/24  | Week 5 ex, most tests passing| 4.5   | |
+| 3/8/24  | Week 5 ex submitted          | 4.5   | |
+| 3/9/24  | Working on climbLog          | 2.5   | |
+| 3/9/24  | DB created, started gen. Dao | 3.5   | |
+| 3/10/24  | Dealing with VM issues      | 2.5   | |
+| 3/11/24  | Lots of progress on genDao  | 3.5   | |
+| 3/11/24  | User/ Climb Dao tests pass  | 3.5   | |
+| 3/11/24  | Front end connected         | 1.5   | |
+
+
+
+
 
 
 
