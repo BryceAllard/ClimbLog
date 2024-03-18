@@ -47,6 +47,22 @@
 | 3/11/24  | Lots of progress on genDao  | 3.5   | |
 | 3/11/24  | User/ Climb Dao tests pass  | 3.5   | |
 | 3/11/24  | Front end connected         | 1.5   | |
+| 3/12/24  | Gave feedback on profDevs   | 3     | |
+| 3/12/24  | Worked on profDev pres      | 3     | |
+| 3/13/24  | Finished profDev pres       | 1     | |
+| 3/13/24  | Finished wk 6 ex            | 4     | |
+| 3/13/24  | recorded/post profDev pres  | 2     | |
+| 3/14/24  | Started wk 7 ex             | 4     | |
+| 3/15/24  | Finished wk 7 ex            | 4     | |
+| 3/16/24  | Started wk 8                | 4     | |
+| 3/17/24  | Worked on week 8            | 3     | |
+| 3/18/24  | Updated learning tracker    | 1.5   | |
+| 3/18/24  | Updated timelog             | 2.5   | |
+
+
+
+
+
 
 
 
