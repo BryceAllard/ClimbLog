@@ -25,3 +25,49 @@
 | 2/14/24 | Started wk 4 videos/ material| 2     | |
 | 2/15/24 | Started exercise 3           | 2.5   | |
 | 2/16/24 | Finished exercise 3          | 4.5   | |
+| 2/18/24 | Starting week 4 content      | 3.5   | |
+| 2/19/24 | Week 4 videos                | 2     | |
+| 2/22/24 | Week 4 activities            | 4.5   | |
+| 2/24/24 | Starting week 4 ex           | 4.5   | Various issues so far |
+| 2/26/24 | new branch for week 4 ex     | 1.5   | |
+| 2/27/24 | Working on week 4 ex         | 2.5   | |
+| 2/28/24 | Working on week 4 ex         | 4.5   | |
+| 2/29/24 | Working on week 4 ex         | 2.5   | |
+| 3/1/24  | VM license expired           | 1     | |
+| 3/3/24  | Setup new VM license         | 1.5   | |
+| 3/4/24  | Working on week 4 ex         | 1.5   | |
+| 3/5/24  | Finished week 4 ex           | 3.5   | |
+| 3/5/24  | Started week 5 content       | 3.5   | |
+| 3/6/24  | Week 5 activities            | 3     | |
+| 3/7/24  | Week 5 ex, most tests passing| 4.5   | |
+| 3/8/24  | Week 5 ex submitted          | 4.5   | |
+| 3/9/24  | Working on climbLog          | 2.5   | |
+| 3/9/24  | DB created, started gen. Dao | 3.5   | |
+| 3/10/24  | Dealing with VM issues      | 2.5   | |
+| 3/11/24  | Lots of progress on genDao  | 3.5   | |
+| 3/11/24  | User/ Climb Dao tests pass  | 3.5   | |
+| 3/11/24  | Front end connected         | 1.5   | |
+| 3/12/24  | Gave feedback on profDevs   | 3     | |
+| 3/12/24  | Worked on profDev pres      | 3     | |
+| 3/13/24  | Finished profDev pres       | 1     | |
+| 3/13/24  | Finished wk 6 ex            | 4     | |
+| 3/13/24  | recorded/post profDev pres  | 2     | |
+| 3/14/24  | Started wk 7 ex             | 4     | |
+| 3/15/24  | Finished wk 7 ex            | 4     | |
+| 3/16/24  | Started wk 8                | 4     | |
+| 3/17/24  | Worked on week 8            | 3     | |
+| 3/18/24  | Updated learning tracker    | 1.5   | |
+| 3/18/24  | Updated timelog             | 2.5   | |
+
+
+
+
+
+
+
+
+
+
+
+
+
