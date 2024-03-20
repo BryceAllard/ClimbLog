@@ -1,7 +1,7 @@
 <%@include file="head.jsp"%>
 <html>
 <body>
-<h2>User Display Exercise - Week 1</h2>
+<h2>ClimbLog - Adventure Awaits</h2>
 <form action="searchClimb" class="form-inline">
     <div class="form-group">
         <label for="searchTerm">Search</label>
