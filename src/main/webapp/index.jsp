@@ -1,4 +1,5 @@
-<%@include file="head.jsp"%>
+<%@include file="taglib.jsp"%>
+<c:import url="head.jsp" />
 <html>
 <body>
 <h2>ClimbLog - Adventure Awaits</h2>
