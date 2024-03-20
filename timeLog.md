@@ -59,6 +59,7 @@
 | 3/18/24  | Updated learning tracker    | 1.5   | |
 | 3/18/24  | Updated timelog             | 2.5   | |
 | 3/18/24  | Completed wk 8 ex           | 2     | |
+| 3/20/24  | Implemented ck pt 2 feedback| 2.5   | |
 
 
 
