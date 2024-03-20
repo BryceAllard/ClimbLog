@@ -58,6 +58,7 @@
 | 3/17/24  | Worked on week 8            | 3     | |
 | 3/18/24  | Updated learning tracker    | 1.5   | |
 | 3/18/24  | Updated timelog             | 2.5   | |
+| 3/18/24  | Completed wk 8 ex           | 2     | |
 
 
 
