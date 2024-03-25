@@ -60,6 +60,9 @@
 | 3/18/24  | Updated timelog             | 2.5   | |
 | 3/18/24  | Completed wk 8 ex           | 2     | |
 | 3/20/24  | Implemented ck pt 2 feedback| 2.5   | |
+| 3/21/24  | Team proj meeting/ work     | 2.5   | |
+| 3/22/24  | Working on checkpt 3 indie  | 4      | |
+| 3/20/24  | Finished checkpt 3, started week 9 | 3.5   | |
 
 
 
