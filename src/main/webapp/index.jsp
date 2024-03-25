@@ -1,15 +1,15 @@
+<%@include file="head.jsp"%>
 <%@include file="taglib.jsp"%>
-<c:import url="head.jsp" />
 <html>
 <body>
-<h2>ClimbLog - Adventure Awaits</h2>
-<form action="searchClimb" class="form-inline">
-    <div class="form-group">
-        <label for="searchTerm">Search</label>
-        <input type="text" class="form-control" id="searchTerm" name="searchTerm" aria-describedby="searchTermHelp" placeholder="Enter location">
-    </div>
-    <button type="submit" name="submit" value="search" class="btn btn-primary">Search</button>
-    <button type="submit" name="submit" value="viewAll" class="btn btn-primary">View all users</button>
-</form>
+<c:choose>
+    <c:when test="${empty userName}">
+        <a href = "logIn">Log in</a>
+    </c:when>
+    <c:otherwise>
+        <h3>Welcome ${userName}</h3>
+        <h2>Click here to find some <a href="old_index.jsp">climbs</a></h2>
+    </c:otherwise>
+</c:choose>
 </body>
 </html>
