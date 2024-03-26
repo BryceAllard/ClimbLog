@@ -62,7 +62,11 @@
 | 3/20/24  | Implemented ck pt 2 feedback| 2.5   | |
 | 3/21/24  | Team proj meeting/ work     | 2.5   | |
 | 3/22/24  | Working on checkpt 3 indie  | 4      | |
-| 3/20/24  | Finished checkpt 3, started week 9 | 3.5   | |
+| 3/24/24  | Finished checkpt 3, started week 9 | 3.5   | |
+| 3/25/24  | Watched profDev and gave feedback | 2   | |
+| 3/25/24  | Worked on week 9 activity | 2   | |
+| 3/26/24  | Updated project plan | 1.5   | |
+
 
 
 
