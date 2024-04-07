@@ -1,4 +1,4 @@
-package ClimbLog.persistence;
+package climblog.persistence;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

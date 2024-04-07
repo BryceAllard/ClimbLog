@@ -1,7 +1,7 @@
-package ClimbLog.controller;
+package climblog.controller;
 
-import ClimbLog.entity.Climb;
-import ClimbLog.persistence.GenericDao;
+import climblog.entity.Climb;
+import climblog.persistence.GenericDao;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -16,6 +16,7 @@ import java.util.List;
  * A servlet to search climbs by difficulty and location.
  */
 @WebServlet(
+        name = "searchClimb",
         urlPatterns = {"/searchClimb"}
 )
 public class SearchClimb extends HttpServlet {

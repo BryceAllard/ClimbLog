@@ -1,8 +1,7 @@
 package persistence;
 
-import ClimbLog.entity.Climb;
-import ClimbLog.entity.User;
-import ClimbLog.persistence.GenericDao;
+import climblog.entity.User;
+import climblog.persistence.GenericDao;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import util.Database;

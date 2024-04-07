@@ -1,4 +1,4 @@
-package ClimbLog.com.Climr;
+package climblog.com.climr;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

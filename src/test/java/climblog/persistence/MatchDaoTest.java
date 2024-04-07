@@ -1,4 +1,4 @@
-package ClimbLog.persistence;
+package climblog.persistence;
 
 import org.junit.jupiter.api.Test;
 

@@ -5,7 +5,7 @@
 <hibernate-configuration>
     <session-factory>
         <property name="connection.url">jdbc:mysql://awseb-e-cmp8y32ndv-stack-awsebrdsdatabase-rouogiji6a1v.c3y0kwy88067.us-east-2.rds.amazonaws.com:3306/ClimbLog</property>
-       <!-- <property name="connection.url">jdbc:mysql://localhost:3306/ClimbLog</property> -->
+       <!-- <property name="connection.url">jdbc:mysql://localhost:3306/climblog</property> -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 
         <property name="connection.username">student</property>
@@ -18,8 +18,8 @@
         <property name="hibernate.c3p0.idle_test_period">3000</property>
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 
-        <mapping class="ClimbLog.entity.User"/>
-        <mapping class="ClimbLog.entity.Climb"/>
+        <mapping class="climblog.entity.User"/>
+        <mapping class="climblog.entity.Climb"/>
 
     </session-factory>
 

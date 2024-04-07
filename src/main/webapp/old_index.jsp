@@ -2,7 +2,7 @@
 <c:import url="head.jsp" />
 <html>
 <body>
-<h2>ClimbLog - Adventure Awaits</h2>
+<h2>climblog - Adventure Awaits</h2>
 <form action="searchClimb" class="form-inline">
     <div class="form-group">
         <label for="searchTerm">Search</label>

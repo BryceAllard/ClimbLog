@@ -1,4 +1,4 @@
-package ClimbLog.entity;
+package climblog.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 

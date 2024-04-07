@@ -1,4 +1,4 @@
-package ClimbLog.auth;
+package climblog.auth;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

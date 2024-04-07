@@ -1,6 +1,6 @@
-package ClimbLog.controller;
+package climblog.controller;
 
-import ClimbLog.util.PropertiesLoader;
+import climblog.util.PropertiesLoader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 @WebServlet(
+        name = "login",
         urlPatterns = {"/logIn"}
 )
 

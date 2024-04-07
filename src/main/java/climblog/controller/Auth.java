@@ -1,12 +1,12 @@
-package ClimbLog.controller;
-import ClimbLog.util.PropertiesLoader;
+package climblog.controller;
+import climblog.util.PropertiesLoader;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.interfaces.DecodedJWT;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import ClimbLog.auth.*;
+import climblog.auth.*;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

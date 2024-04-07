@@ -1,6 +1,6 @@
-package ClimbLog.persistence;
+package climblog.persistence;
 
-import ClimbLog.com.Climr.Match;
+import climblog.com.climr.Match;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
