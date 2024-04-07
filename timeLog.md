@@ -72,6 +72,7 @@
 | 4/4/24  | Working on/ testing teamProj delete | 1.5   | |
 | 4/6/24  | Got CL redirect to local fixed | 2.5   | |
 | 4/6/24  | CL project plan | 1.5   | |
+| 4/7/24  | CL front end/ trying to connect DB | 3.5   | |
 
 
 
