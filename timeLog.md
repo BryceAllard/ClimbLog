@@ -66,6 +66,12 @@
 | 3/25/24  | Watched profDev and gave feedback | 2   | |
 | 3/25/24  | Worked on week 9 activity | 2   | |
 | 3/26/24  | Updated project plan | 1.5   | |
+| 3/27/24  | Team meeting/ work | 1.5   | |
+| 3/28/24  | Work on team proj | 1.5   | |
+| 4/2/24  | Starting climblog redirect issue | 3.5   | |
+| 4/4/24  | Working on/ testing teamProj delete | 1.5   | |
+| 4/6/24  | Got CL redirect to local fixed | 2.5   | |
+| 4/6/24  | CL project plan | 1.5   | |
 
 
 
