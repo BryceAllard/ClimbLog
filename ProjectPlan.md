@@ -60,6 +60,15 @@
 - [x] Add AWS deployed app link to indie project list in student repo
 - [x] Double-check all checkpoint 3 items (above) are complete and visible in GitHub.
 
+## Week 10 and 11
+- [ ] Concentrate on team project
+- [ ] create logo
+- [ ] implement checkpoint 3 feedback
+
+## Week 13
+- [ ] Work on front end
+- [ ] Implement API calls 
+
 ## Week 15
 - [ ] Implement Feedback from Week 14 review
 - [ ] Final Presentation
