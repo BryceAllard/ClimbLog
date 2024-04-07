@@ -7,7 +7,7 @@
 --%>
 <div class="col-md-2">
     <div class="page-header">
-        <img src="images/mainLogo" alt="logo" class="logo">
+        <img src="images/png/logo-no-background.png" alt="logo" class="logo">
     </div>
     <ul class="nav flex-column nav-pills">
 
