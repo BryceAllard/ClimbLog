@@ -4,8 +4,10 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <property name="connection.url">jdbc:mysql://awseb-e-cmp8y32ndv-stack-awsebrdsdatabase-rouogiji6a1v.c3y0kwy88067.us-east-2.rds.amazonaws.com:3306/ClimbLog</property>
-       <!-- <property name="connection.url">jdbc:mysql://localhost:3306/climblog</property> -->
+
+        <property name="connection.url">jdbc:mysql://awseb-e-56j8cymnag-stack-awsebrdsdatabase-35iza9yb9ohy.c3y0kwy88067.us-east-2.rds.amazonaws.com:3306/ClimbLog</property>
+       <!-- version1 <property name="connection.url">jdbc:mysql://awseb-e-cmp8y32ndv-stack-awsebrdsdatabase-rouogiji6a1v.c3y0kwy88067.us-east-2.rds.amazonaws.com:3306/ClimbLog</property> -->
+       <!-- local <property name="connection.url">jdbc:mysql://localhost:3306/climblog</property> -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 
         <property name="connection.username">student</property>
