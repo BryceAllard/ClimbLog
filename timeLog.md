@@ -73,7 +73,10 @@
 | 4/6/24  | Got CL redirect to local fixed | 2.5   | |
 | 4/6/24  | CL project plan | 1.5   | |
 | 4/7/24  | CL front end/ trying to connect DB | 3.5   | |
-
+| 4/7/24  | Team Proj documentation | 2.5   | |
+| 4/8/24  | Team Proj testing | 2.5   | |
+| 4/9/24  | Finish Team proj documentation | 1.5   | |
+| 4/11/24  | CL connected to AWS DB | 3.5   | |
 
 
 
