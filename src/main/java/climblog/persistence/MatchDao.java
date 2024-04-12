@@ -22,7 +22,7 @@ public class MatchDao {
         try {
             Match[] matches = mapper.readValue(response, Match[].class);
             if (matches.length > 0) {
-                match = matches[0]; // Assuming you want the first match
+                match = matches[0];
             }
         } catch (JsonProcessingException e) {
             throw new RuntimeException(e);
