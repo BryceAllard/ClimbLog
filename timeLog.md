@@ -77,6 +77,9 @@
 | 4/8/24  | Team Proj testing | 2.5   | |
 | 4/9/24  | Finish Team proj documentation | 1.5   | |
 | 4/11/24  | CL connected to AWS DB | 3.5   | |
+| 4/12/24  | Team project meeting/ recording | 2.5   | |
+| 4/15/24  | Review week 10/ other materials | 2.5   | |
+| 4/17/24  | Week 10 activity started | 2.5   | |
 
 
 
