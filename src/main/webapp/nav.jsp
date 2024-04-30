@@ -5,14 +5,8 @@
   Time: 2:01 PM
   To change this template use File | Settings | File Templates.
 --%>
-<!DOCTYPE html>
+<%@include file="head.jsp"%>
 <html>
-<head>
-    <title>W3.CSS Template</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-</head>
 <body>
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
@@ -34,6 +28,10 @@
         </c:choose>
     </div>
 </div>
+
+
+</body>
+</html>
 <!--
 <div class="col-md-2">
     <div class="page-header">
