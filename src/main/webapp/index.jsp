@@ -29,25 +29,25 @@
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">Find a route</div>
-                <img src="/w3images/house2.jpg" alt="House" style="width:99%">
+                <img src="images/walkingPath.jpg" alt="Hiker hiking down a path" style="width:99%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
-                <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
-                <img src="/w3images/house5.jpg" alt="House" style="width:99%">
+                <div class="w3-display-topleft w3-black w3-padding">Training Plans</div>
+                <img src="images/trainingPlan1.jpg" alt="Climber with chalk" style="width:99%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
-                <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-                <img src="/w3images/house4.jpg" alt="House" style="width:99%">
+                <div class="w3-display-topleft w3-black w3-padding">Climbr Matches</div>
+                <img src="images/partner4.jpg" alt="Partners climbing" style="width:99%">
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-display-container">
-                <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-                <img src="/w3images/house3.jpg" alt="House" style="width:99%">
+                <div class="w3-display-topleft w3-black w3-padding">Monthly Spotlight</div>
+                <img src="images/closeUp.jpg" alt="Climber portrait" style="width:99%">
             </div>
         </div>
     </div>
