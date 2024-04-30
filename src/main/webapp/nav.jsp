@@ -6,14 +6,19 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@include file="head.jsp"%>
-<html>
-<body>
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="${pageContext.request.contextPath}/login" class="w3-bar-item w3-button"><img src="images/png/logo-no-background.png"alt="logo" class="logo"></a>
         <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right w3-hide-small">
+            <a href="${pageContext.request.contextPath}/login" class="w3-bar-item w3-button">Log In</a>
+            <a href="${pageContext.request.contextPath}/searchClimb" class="w3-bar-item w3-button">Search Climb</a>
+            <a href="${pageContext.request.contextPath}/" class="w3-bar-item w3-button">Climbr Matches</a>
+            <a href="logout" class="w3-bar-item w3-button">Log Out</a>
+        </div>
+    </div>
+</div>
 <c:choose>
     <c:when test="${empty userName}">
         <a href="${pageContext.request.contextPath}/login" class="w3-bar-item w3-button">Log In</a>
@@ -29,9 +34,6 @@
     </div>
 </div>
 
-
-</body>
-</html>
 <!--
 <div class="col-md-2">
     <div class="page-header">
