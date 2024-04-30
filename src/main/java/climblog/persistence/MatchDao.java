@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
 
 public class MatchDao {
 
-    Match getMatch() {
+    public Match getMatch() {
         Client client = ClientBuilder.newClient();
         WebTarget target =
                 client.target("https://my.api.mockaroo.com/climbr.json?key=d8027830&id=1");
