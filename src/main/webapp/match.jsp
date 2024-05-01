@@ -11,9 +11,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="climblog.com.climr.Match" %>
 <%@ page import="climblog.persistence.MatchDao" %>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-         pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
