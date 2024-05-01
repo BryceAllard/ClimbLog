@@ -24,7 +24,8 @@
         <th>ID</th>
         <th>Username</th>
         <th>Email</th>
-        <!-- TODO: Add more? -->
+        <th>Rating</th>
+        <th>Favorite Animal</th>
     </tr>
     </thead>
     <tbody>
@@ -33,7 +34,8 @@
             <td>${match.id}</td>
             <td>${match.username}</td>
             <td>${match.email}</td>
-            <!-- TODO: Add more? -->
+            <td>${match.rating}</td>
+            <td>${match.favAnimal}</td>
         </tr>
     </c:forEach>
     </tbody>
