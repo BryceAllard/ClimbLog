@@ -8,26 +8,25 @@ Since climbing routes are in hard to reach places by default, climblog will make
 * Security/Authentication
   * AWS Cognito
 * Database
-  * MySQL 8.x
+  * MySQL 8.0.16
 * ORM Framework
-  * Hibernate Version TBD
+  * Hibernate Version 5.4.4.Final
 * Dependency Management
   * Maven
 * Web Services consumed using Java
-  * TBD 
+  * Mockaroo
 * CSS 
-  * Bootstrap or Materialize
+  * Bootstrap
 * Data Validation
-  * Bootstrap Validator for front end
-  * Explore Hibernate Validator?
+  * Hibernate
+* Mock Data Generation
+  * Mockaroo 
 * Logging
   * Log4J2
 * Hosting
   * AWS
 * Tech I'd like to explore as part of this work
   * Mockaroo
-  * Google Maps API
-* Project Lombok
 * Unit Testing
   * JUnit tests to cover all testable logic
 * IDE: IntelliJ IDEA
