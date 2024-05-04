@@ -80,6 +80,17 @@
 | 4/12/24  | Team project meeting/ recording | 2.5   | |
 | 4/15/24  | Review week 10/ other materials | 2.5   | |
 | 4/17/24  | Week 10 activity started | 2.5   | |
+| 4/19/24  | Week 10 activity done up to my part | 2.5   | |
+| 4/20/24  | Working on ClimbLog | 2.5   | |
+| 4/21/24  | Working on ClimbLog | 2.5   | |
+| 4/24/24  | Working on ClimbLog | 2.5   | |
+| 5/1/24  | Working on ClimbLog | 2.5   | |
+| 5/1/24  | Code review meeting | 1.5   | |
+| 5/4/24  | Code review completed | 1.5   | |
+| 5/4/24  | Working on ClimbLog | 2.5   | |
+
+
+
 
 
 
