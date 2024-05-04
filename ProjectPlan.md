@@ -61,16 +61,17 @@
 - [x] Double-check all checkpoint 3 items (above) are complete and visible in GitHub.
 
 ## Week 10 and 11
-- [ ] Concentrate on team project
-- [ ] create logo
-- [ ] implement checkpoint 3 feedback
+- [x] Concentrate on team project
+- [x] create logo
+- [x] implement checkpoint 3 feedback
 
 ## Week 13
-- [ ] Work on front end
-- [ ] Implement API calls 
+- [x] Work on front end
+- [x] Implement API calls 
 
 ## Week 15
-- [ ] Implement Feedback from Week 14 review
+- [x] Implement Feedback from Week 14 review
+- [ ] Fix CRUD functionality
 - [ ] Final Presentation
 - [ ] Create video, add video link to readme.md
 - [ ] Finalize all documentation
