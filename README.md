@@ -34,7 +34,7 @@ Since climbing routes are in hard to reach places by default, climblog will make
 ### Design
 
 * [User Stories](DesignDocuments/userStories.md)
-* [Screen Design](DesignDocuments/screens.md)
+* [Screen Design](DesignDocuments/wireframes/screens.md)
 
 
 ### [Project Plan](ProjectPlan.md)
