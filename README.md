@@ -1,8 +1,8 @@
 ### Problem Statement
 
-For new climbers, finding new routes to climb is almost as hard as the climb itself. For decades, there have only really been 3 options: you get a guru to show you, you buy a guidebook, or you search for climbs on mountainProject. Unfortunately, your guru is a bit flakey and is sick of bringing newbies to the same spot, your book is 450 pages long and was last updated 7 years ago, and your mountainProject is a cluster of meta memes and confusing descriptions. Finally, the answer is here: Enter ‘climblog’. climblog is a simple-by-design hub for climbing routes and conditions. Users can create a profile, add a climb with its details, and log climbs they’ve completed.
+For new climbers, finding new routes to climb is almost as hard as the climb itself. For decades, there have only really been 3 options: you get a guru to show you, you buy a guidebook, or you search for climbs on mountainProject. Unfortunately, your guru is a bit flakey and is sick of bringing newbies to the same spot, your book is 450 pages long and was last updated 7 years ago, and your mountainProject is a cluster of meta memes and confusing descriptions. Finally, the answer is here: Enter ‘climblog’. climblog is a simple-by-design hub for climbing routes and conditions. Users can create an account and search for climbing routes by whatever parameter is important to them.
 
-Since climbing routes are in hard to reach places by default, climblog will make finding routes easy by including latitude and longitude coordinates to follow. Users will also be able to check forecasts for those coordinates to know if good climbing weather is on the way. climblog will make finding routes easy so climbers can get out there and climb.
+Since climbing is a sport that requires a partner, our app also integrates with Climbr, the popular online climbing partner matching website. If you are in need of a climbing partner, we will show you all your potential matches along with some information about each one. If you see someone you are interested in, make the first move in your newest potential belaytionship.
 
 ### Project Technologies/Techniques 
 * Security/Authentication
