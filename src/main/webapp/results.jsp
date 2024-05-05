@@ -14,6 +14,7 @@
     <h2>Search Results: </h2>
     <table id="climbTable" class="display" cellspacing="0" width="100%">
         <thead>
+        <th>ID</th>
         <th>Name</th>
         <th>State</th>
         <th>Difficulty</th>
@@ -23,6 +24,7 @@
         <tbody>
         <c:forEach var="climb" items="${climbs}">
             <tr>
+                <td>${climb.id}</td>
                 <td>${climb.name}</td>
                 <td>${climb.state}</td>
                 <td>${climb.difficulty}</td>
