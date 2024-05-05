@@ -1,8 +1,9 @@
-<%@include file="head.jsp"%>
 <%@include file="taglib.jsp"%>
+<c:import url="head.jsp" />
 <html>
-<%@include file="nav.jsp"%>
+
 <body>
+<c:import url="nav.jsp" />
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
     <img class="w3-image" src="images/climberBlueSky.jpg" alt="Climber with a blue sky" width="1500">

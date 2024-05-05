@@ -5,7 +5,8 @@
   Time: 2:01 PM
   To change this template use File | Settings | File Templates.
 --%>
-<%@include file="head.jsp"%>
+<%@include file="taglib.jsp"%>
+<c:import url="head.jsp" />
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">

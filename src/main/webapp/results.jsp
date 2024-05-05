@@ -9,6 +9,7 @@
 </script>
 <html>
 <body>
+<c:import url="nav.jsp" />
 
 <div class="container-fluid">
     <h2>Search Results: </h2>

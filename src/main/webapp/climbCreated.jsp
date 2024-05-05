@@ -20,20 +20,12 @@
 
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
-    <c:choose>
-        <c:when test="${empty userName}">
-            <h4 class="noUser">Uh oh, looks like you're not logged in. Let's fix that you so can find some climbs</h4>
-            <h5><a href = "logIn">Log in</a></h5>
-        </c:when>
-        <c:otherwise>
             <!-- Project Section -->
             <div class="w3-container w3-padding-32" id="projects">
                 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Climb Created Successfully</h3>
-                <p>Your climb has been created successfully.</p>
-                <a href="${pageContext.request.contextPath}/climbs">Back to Climb List</a>
+                <p>Your climb has been created successfully. Check it out one the</p>
+                <a href="${pageContext.request.contextPath}/climbs">Climb List</a>
             </div>
-        </c:otherwise>
-    </c:choose>
 </div>
 </body>
 </html>
