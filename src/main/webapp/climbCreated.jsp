@@ -23,8 +23,8 @@
             <!-- Project Section -->
             <div class="w3-container w3-padding-32" id="projects">
                 <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Climb Created Successfully</h3>
-                <p>Your climb has been created successfully. Check it out one the</p>
-                <a href="${pageContext.request.contextPath}/climbs">Climb List</a>
+                <p>Your climb has been created successfully. Check it out on the</p>
+                <a href="${pageContext.request.contextPath}/searchClimb">Climb List</a>
             </div>
 </div>
 </body>

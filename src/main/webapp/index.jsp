@@ -37,6 +37,7 @@
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">Training Plans</div>
                 <img src="images/trainingPlan1.jpg" alt="Climber with chalk" style="width:99%">
+                <!-- TODO: implement actual training plan page -->
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
@@ -49,6 +50,7 @@
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">Monthly Spotlight</div>
                 <img src="images/closeUp.jpg" alt="Climber portrait" style="width:99%">
+                <!-- TODO: implement actual monthly spotlight page -->
             </div>
         </div>
     </div>

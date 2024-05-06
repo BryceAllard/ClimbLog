@@ -22,9 +22,9 @@
                 <div class="w3-right w3-hide-small">
                     <a href="${pageContext.request.contextPath}/searchClimb" class="w3-bar-item w3-button">Search Climb</a>
                     <a href="${pageContext.request.contextPath}/match" class="w3-bar-item w3-button">Climbr Matches</a>
-                    <a href="${pageContext.request.contextPath}/createClimb" class="w3-bar-item w3-button">Create</a>
-                    <a href="${pageContext.request.contextPath}/deleteClimb" class="w3-bar-item w3-button">Create</a>
-                    <a href="logout" class="w3-bar-item w3-button">Log Out</a>
+                    <a href="${pageContext.request.contextPath}/createClimb" class="w3-bar-item w3-button">Create Climb</a>
+                    <a href="${pageContext.request.contextPath}/deleteClimb" class="w3-bar-item w3-button">Delete Climb</a>
+                    <a href="logout.jsp" class="w3-bar-item w3-button">Log Out</a>
                 </div>
             </c:otherwise>
         </c:choose>
