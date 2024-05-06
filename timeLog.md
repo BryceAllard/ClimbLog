@@ -88,6 +88,8 @@
 | 5/1/24  | Code review meeting | 1.5   | |
 | 5/4/24  | Code review completed | 1.5   | |
 | 5/4/24  | Working on ClimbLog | 2.5   | |
+| 5/5/24  | Finishing on ClimbLog | 7.5   | |
+| 5/6/24  | Recording video and doing learning tracker | 3.5   | |
 
 
 
