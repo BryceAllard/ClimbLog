@@ -1,8 +1,9 @@
-<%@include file="head.jsp"%>
 <%@include file="taglib.jsp"%>
+<c:import url="head.jsp" />
 <html>
-<%@include file="nav.jsp"%>
+
 <body>
+<c:import url="navLoginCheck.jsp" />
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
     <img class="w3-image" src="images/climberBlueSky.jpg" alt="Climber with a blue sky" width="1500">
@@ -36,6 +37,7 @@
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">Training Plans</div>
                 <img src="images/trainingPlan1.jpg" alt="Climber with chalk" style="width:99%">
+                <!-- TODO: implement actual training plan page -->
             </div>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
@@ -48,6 +50,7 @@
             <div class="w3-display-container">
                 <div class="w3-display-topleft w3-black w3-padding">Monthly Spotlight</div>
                 <img src="images/closeUp.jpg" alt="Climber portrait" style="width:99%">
+                <!-- TODO: implement actual monthly spotlight page -->
             </div>
         </div>
     </div>

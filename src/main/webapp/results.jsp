@@ -9,11 +9,13 @@
 </script>
 <html>
 <body>
+<c:import url="nav.jsp" />
 
 <div class="container-fluid">
-    <h2>Search Results: </h2>
+    <h1 class="w3-border-bottom w3-border-light-grey w3-padding-16 w3-panel" style="margin-top:10%;">Search Results: </h1>
     <table id="climbTable" class="display" cellspacing="0" width="100%">
         <thead>
+        <th>ID</th>
         <th>Name</th>
         <th>State</th>
         <th>Difficulty</th>
@@ -23,6 +25,7 @@
         <tbody>
         <c:forEach var="climb" items="${climbs}">
             <tr>
+                <td>${climb.id}</td>
                 <td>${climb.name}</td>
                 <td>${climb.state}</td>
                 <td>${climb.difficulty}</td>
