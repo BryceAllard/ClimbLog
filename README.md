@@ -36,6 +36,14 @@ Since climbing is a sport that requires a partner, our app also integrates with 
 * [User Stories](DesignDocuments/userStories.md)
 * [Screen Design](DesignDocuments/wireframes/)
 
+### V2
+* Add pages for picture links
+* Add admin capability
+* My Climbs section
+* Admin capabilities
+
+### Demo Link
+* (Video link here)
 
 ### [Project Plan](ProjectPlan.md)
 #### [TimeLog](timeLog.md)
