@@ -71,13 +71,13 @@
 
 ## Week 15
 - [x] Implement Feedback from Week 14 review
-- [ ] Fix CRUD functionality
-- [ ] Final Presentation
-- [ ] Create video, add video link to readme.md
-- [ ] Finalize all documentation
-- [ ] Code quality check
-- [ ] Weekly journal entry
+- [x] Fix CRUD functionality
+- [x] Final Presentation
+- [x] Create video, add video link to readme.md
+- [x] Finalize all documentation
+- [x] Code quality check
+- [x] Weekly journal entry
 
 ## Week 16
-- [ ] Weekly journal entry
-- [ ] Final touches before code complete
+- [x] Weekly journal entry
+- [x] Final touches before code complete
