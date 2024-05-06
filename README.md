@@ -41,6 +41,7 @@ Since climbing is a sport that requires a partner, our app also integrates with 
 * Add admin capability
 * My Climbs section
 * Admin capabilities
+* Clean up styling
 
 ### Demo Link
 * (Video link here)
