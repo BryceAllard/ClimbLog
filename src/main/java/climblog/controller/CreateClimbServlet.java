@@ -29,7 +29,7 @@ public class CreateClimbServlet extends HttpServlet {
         String state = request.getParameter("state");
         int difficulty = Integer.parseInt(request.getParameter("difficulty"));
         String type = request.getParameter("type");
-        int userId = Integer.parseInt(request.getParameter("userId")); // Assuming there's a hidden input field for userId in the form
+        int userId = Integer.parseInt(request.getParameter("userId"));
 
         // Create a new climb object
         Climb climb = new Climb();

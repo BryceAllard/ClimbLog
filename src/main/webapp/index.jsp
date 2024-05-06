@@ -56,5 +56,6 @@
     </div>
         </c:otherwise>
         </c:choose>
+        <c:import url="footer.jsp" />
 </body>
 </html>

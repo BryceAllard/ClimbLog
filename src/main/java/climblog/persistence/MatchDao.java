@@ -14,7 +14,7 @@ public class MatchDao {
 
     // Method to retrieve all matches
     public List<Match> getMatches() {
-        // Call the getMatches method with a default value (e.g., all matches)
+        // Call the getMatches method with a default value
         return getMatches(-1);
     }
 
@@ -32,7 +32,7 @@ public class MatchDao {
             if (matchesArray.length > 0) {
                 // Convert array to list
                 matches = Arrays.asList(matchesArray);
-                // If you only want to return a certain number of matches
+                // Return a certain number of matches
                 if (numberOfMatches > 0 && numberOfMatches < matches.size()) {
                     matches = matches.subList(0, numberOfMatches);
                 }

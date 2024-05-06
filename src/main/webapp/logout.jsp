@@ -17,5 +17,6 @@
             <h4 class="noUser">Thanks for stopping by! Stay safe</h4>
             <h5><a href = "logIn">Log back in</a></h5>
         </div>
+    <c:import url="footer.jsp" />
     </body>
 </html>
